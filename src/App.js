@@ -9,7 +9,7 @@ const { chains, publicClient } = configureChains(
   [
     jsonRpcProvider({
       rpc: () => ({
-        http: "https://mainnet.infura.io/v3/" // 
+        http: "https://mainnet.infura.io/v3/" 
       }),
     })
   ]
