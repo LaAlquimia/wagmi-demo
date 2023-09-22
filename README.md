@@ -1,6 +1,6 @@
-#  WEB3 LOGIN WAGMI 
+# 🌐 WEB-3 LOGIN WAGMI 
 
-Simple login for web3 projects
+Simple login for web3 projects 🦊
 
 ## Download 
 
@@ -10,23 +10,16 @@ Simple login for web3 projects
 git clone https://github.com/LaAlquimia/wagmi-demo.git
 ```
 
-The following code block uses syntax highlighting for Haskell:
-```hs
--- Change Directory
+User following instructions to execute webpage 💻
+```bash
+## Change Directory
 cd wagmi-demo
 
--- Bun Add dependencies 
+## Bun Add dependencies 
 bun add wagmi react bootstrap
 
 
--- Run project
+## Run project
 bun run start 
 ```
-
-
-
-
-
-
-	
 
