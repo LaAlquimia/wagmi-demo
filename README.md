@@ -4,14 +4,25 @@ Simple login for web3 projects
 
 ## Download 
 
-### `git clone https://github.com/LaAlquimia/wagmi-demo.git`
+
     
+```
+git clone https://github.com/LaAlquimia/wagmi-demo.git
+```
 
-# Open Folder
-### `cd wagmi-demo`
+The following code block uses syntax highlighting for Haskell:
+```hs
+-- Change Directory
+cd wagmi-demo
 
-# Add dependencies 
-### `bun add wagmi react bootstrap `
+-- Bun Add dependencies 
+bun add wagmi react bootstrap
+
+
+-- Run project
+bun run start 
+```
+
 
 
 
