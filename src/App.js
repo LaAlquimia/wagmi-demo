@@ -45,8 +45,6 @@ function Profile() {
       <div className="d-flex justify-content-center align-items-center vh-100">
         <div className="text-center">
           <p>Connected to {address}</p>
-          <p>Balance: {data ? data.formatted : "Loading..."} ETH</p>
-          <p>Chain ID: {config ? config.lastUsedChainId : ""}</p>
           <button className="btn btn-primary mt-3" onClick={disconnect}>Disconnect</button>
         </div>
       </div>
